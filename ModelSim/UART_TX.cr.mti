@@ -1,0 +1,64 @@
+{D:/AT Digital Course/Assignments/UART_TX/Serializer_tb.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/Assignments/UART_TX/Serializer_tb.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module serializer_tb
+
+Top level modules:
+	serializer_tb
+
+} {} {}} {D:/AT Digital Course/Assignments/UART_TX/FSM_tb.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/Assignments/UART_TX/FSM_tb.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module FSM_tb
+
+Top level modules:
+	FSM_tb
+
+} {} {}} {D:/AT Digital Course/Assignments/UART_TX/ParityClac.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/Assignments/UART_TX/ParityClac.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module parityCalc
+
+Top level modules:
+	parityCalc
+
+} {} {}} {D:/AT Digital Course/Assignments/UART_TX/UART_TX_top.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/Assignments/UART_TX/UART_TX_top.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module uart_tx
+
+Top level modules:
+	uart_tx
+
+} {} {}} {D:/AT Digital Course/Assignments/UART_TX/ParityClac_tb.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/Assignments/UART_TX/ParityClac_tb.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module parityCalc_tb
+
+Top level modules:
+	parityCalc_tb
+
+} {} {}} {D:/AT Digital Course/Assignments/UART_TX/UART_TX_top_tb.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/Assignments/UART_TX/UART_TX_top_tb.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module uart_tx_tb
+
+Top level modules:
+	uart_tx_tb
+
+} {} {}} {D:/AT Digital Course/Assignments/UART_TX/Serializer.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/Assignments/UART_TX/Serializer.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module serializer
+
+Top level modules:
+	serializer
+
+} {} {}} {D:/AT Digital Course/Assignments/UART_TX/FSM.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/Assignments/UART_TX/FSM.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} {D:/AT Digital Course/Assignments/UART_TX/MUX.v} {1 {vlog -work work -vopt -stats=none {D:/AT Digital Course/Assignments/UART_TX/MUX.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}}

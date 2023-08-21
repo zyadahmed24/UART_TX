@@ -1,0 +1,203 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Work/Summer 2023/Digital Electronics/SPI Wrapper project/ModelSim
+vFSM
+Z0 !s110 1692576113
+!i10b 1
+!s100 la<6Iko@5T:0iNgaklcm[3
+I3>:4bIT_MCIKHRIeNgILY0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/AT Digital Course/Assignments/UART_TX/ModelSim
+w1692455525
+8D:/AT Digital Course/Assignments/UART_TX/FSM.v
+FD:/AT Digital Course/Assignments/UART_TX/FSM.v
+L0 1
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z4 !s108 1692576112.000000
+!s107 D:/AT Digital Course/Assignments/UART_TX/FSM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/Assignments/UART_TX/FSM.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+n@f@s@m
+vFSM_tb
+Z7 !s110 1692576112
+!i10b 1
+!s100 ;MYQIfQ3S@9YoQ_QbH<nR3
+I@O:zEU^D0WZYMe<Kz^3nS3
+R1
+R2
+w1692383792
+8D:/AT Digital Course/Assignments/UART_TX/FSM_tb.v
+FD:/AT Digital Course/Assignments/UART_TX/FSM_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/AT Digital Course/Assignments/UART_TX/FSM_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/Assignments/UART_TX/FSM_tb.v|
+!i113 0
+R5
+R6
+n@f@s@m_tb
+vmux
+R0
+!i10b 1
+!s100 >5N5foYMfZe3CaXjiBPz]1
+IFzAAM3bUTAAUY2OhESblm1
+R1
+R2
+w1692385089
+8D:/AT Digital Course/Assignments/UART_TX/MUX.v
+FD:/AT Digital Course/Assignments/UART_TX/MUX.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1692576113.000000
+!s107 D:/AT Digital Course/Assignments/UART_TX/MUX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/Assignments/UART_TX/MUX.v|
+!i113 0
+R5
+R6
+vparityCalc
+R7
+!i10b 1
+!s100 iT6o3ka3Vm6SDSzL<^af<1
+If]oHYMNWE[WFCoBZQJ[J=3
+R1
+R2
+w1692463383
+8D:/AT Digital Course/Assignments/UART_TX/ParityClac.v
+FD:/AT Digital Course/Assignments/UART_TX/ParityClac.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/AT Digital Course/Assignments/UART_TX/ParityClac.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/Assignments/UART_TX/ParityClac.v|
+!i113 0
+R5
+R6
+nparity@calc
+vparityCalc_tb
+R7
+!i10b 1
+!s100 M97i6GmdBE_^^RJCFWbHX1
+Ie@mA=Cln_7Kc[Z]:D^PJz0
+R1
+R2
+w1692224441
+8D:/AT Digital Course/Assignments/UART_TX/ParityClac_tb.v
+FD:/AT Digital Course/Assignments/UART_TX/ParityClac_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/AT Digital Course/Assignments/UART_TX/ParityClac_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/Assignments/UART_TX/ParityClac_tb.v|
+!i113 0
+R5
+R6
+nparity@calc_tb
+vserializer
+R7
+!i10b 1
+!s100 iT3m55OkO3S0@@gGCEYFT0
+IHL`X=B3:ANGNJRz?NBNL@0
+R1
+R2
+w1692456428
+8D:/AT Digital Course/Assignments/UART_TX/Serializer.v
+FD:/AT Digital Course/Assignments/UART_TX/Serializer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/AT Digital Course/Assignments/UART_TX/Serializer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/Assignments/UART_TX/Serializer.v|
+!i113 0
+R5
+R6
+vserializer_tb
+R7
+!i10b 1
+!s100 8jYelkg9CC>LL^<bCVL;z0
+IGf5oAh_Jf@j:D?VL^GTof2
+R1
+R2
+w1692285017
+8D:/AT Digital Course/Assignments/UART_TX/Serializer_tb.v
+FD:/AT Digital Course/Assignments/UART_TX/Serializer_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/AT Digital Course/Assignments/UART_TX/Serializer_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/Assignments/UART_TX/Serializer_tb.v|
+!i113 0
+R5
+R6
+vuart_tx
+R0
+!i10b 1
+!s100 <<hEP_H;7_I2_hDm`0Z_E0
+I0g89NQcChbg;jgf=@h^eE3
+R1
+R2
+w1692472716
+8D:/AT Digital Course/Assignments/UART_TX/UART_TX_top.v
+FD:/AT Digital Course/Assignments/UART_TX/UART_TX_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/AT Digital Course/Assignments/UART_TX/UART_TX_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/Assignments/UART_TX/UART_TX_top.v|
+!i113 0
+R5
+R6
+vuart_tx_tb
+R0
+!i10b 1
+!s100 :z08Wjb5<k^75D^o@1mjX1
+IjX7a2O@hNFPCGZU]c_5c>1
+R1
+R2
+w1692472637
+8D:/AT Digital Course/Assignments/UART_TX/UART_TX_top_tb.v
+FD:/AT Digital Course/Assignments/UART_TX/UART_TX_top_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/AT Digital Course/Assignments/UART_TX/UART_TX_top_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/AT Digital Course/Assignments/UART_TX/UART_TX_top_tb.v|
+!i113 0
+R5
+R6
